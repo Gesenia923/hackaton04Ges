@@ -5,7 +5,7 @@ TÍTULO: Maquetación Web
    Sirve para dar estilos a tu maquetación de html, como colores, el diseño de los elementos, la orientación, tamaño, tipo de letra, etc, mejorando la presentación final de las páginas web.
 
 • ¿Cuáles son los contras de no usar CSS?
-  Quizas la adaptabilidad de los navegadores en cuanto a su funcionalidad el css
+  Quizas la adaptabilidad de los navegadores en cuanto a su funcionalidad en el css, pues algunos no tienen la adaptibilidad de css, ante ello imposibilita realizar tareas con el programa. 
    
 • ¿Cuáles son los beneficios?
    .Mejor presentacion
